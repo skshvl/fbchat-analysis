@@ -16,9 +16,9 @@ Once you extract the .zip file, it will be a list of folders of active and archi
 
 ### 3) Copy the paths to these files to the top of the fbchat_analysis jupyter notebook:
 
-Put them in this list:
+Put them in this list. If you don't the sample html files are just random lines from Milton's *Paradise Lost*, formatted as a Facebook chat.
 
-[](Screenshots/filenames.png)
+![](Screenshots/filenames.png)
 
 ### 4) Follow the instructions in the Jupyter notebook
 
