@@ -1,4 +1,4 @@
-# fbchat-analysis
+# Facebook Chat Analysis
 
 Analyzes your Facebook group chat logs.
 
